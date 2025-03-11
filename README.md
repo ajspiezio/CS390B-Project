@@ -26,6 +26,8 @@ Our initial exploratory analysis (Figures 1-3) shows important differences in he
 2) Heart Rate Distribution by Device
 3) Steps vs Heart Rate, colored by Activity
 
+Source: https://www.kaggle.com/datasets/aleespinosa/apple-watch-and-fitbit-data
+
 ## Approach
 Our approach involves first applying statistical analyses (ANOVA, ANCOVA, correlation analysis, t-tests) to explore significant relationships among heart rate, steps, and physical activities. We will then implement baseline predictive models such as Logistic Regression and Linear Regression to provide initial benchmarks. Following this, more advanced algorithms including Support Vector Machines (SVM), XGBoost, and Neural Networks will be explored. We plan to systematically evaluate and compare these models using metrics such as accuracy, F1-score, and ROC-AUC, along with qualitative visual assessments through plots and figures.
 
